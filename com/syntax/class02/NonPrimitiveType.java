@@ -1,7 +1,5 @@
 package com.syntax.class02;
 
-import java.awt.SystemColor;
-
 public class NonPrimitiveType {
 
 	public static void main(String[] args) {
@@ -12,12 +10,10 @@ public class NonPrimitiveType {
        * string is not key word
        */
 		
-		long phoneNumber=97451233;
-      String name="Medine";
+		String name="Medine";
       String lastName="Kaya";
       String mobileNumber="570-874-9111";
       String num="123";
-      int num1=123;
       String greeting="Hello Friend";
       System.out.println(greeting);
       System.out.println("Hello Friends");
@@ -41,7 +37,6 @@ public class NonPrimitiveType {
      // Medine is 30 years old
       int age1=30;
       
-      String age=" years old ";
       System.out.println(name+" is " +age1 + " years old " );
       
       //I live on 449 sea street

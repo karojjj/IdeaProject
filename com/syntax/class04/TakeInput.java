@@ -1,6 +1,6 @@
 package com.syntax.class04;
 
-import java.util.Scanner;//to import ctrl+shift+0
+import java.util.Scanner;
 public class TakeInput {
 
 	public static void main(String[] args) {

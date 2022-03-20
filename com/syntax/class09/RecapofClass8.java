@@ -34,7 +34,7 @@ public class RecapofClass8 {
 		}
 
 		System.out.println("-----------------------------------------------------");
-		for (int i = 1; i <= 3; i++) { // outer loop controls number of complete iteration of inner loop
+		for (int i = 1; i <= 3;) { // outer loop controls number of complete iteration of inner loop
 			for (int j = 1; j <= 3; j++) { // Inner loops always depends on outer
 				System.out.println("Hello");
 

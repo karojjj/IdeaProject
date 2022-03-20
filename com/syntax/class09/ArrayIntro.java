@@ -3,8 +3,6 @@ package com.syntax.class09;
 public class ArrayIntro {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int num = 1;
 		// creating an array that holds 4 elements
 		int[] numbers = new int[4];
 		// storing values/element inside an arrar

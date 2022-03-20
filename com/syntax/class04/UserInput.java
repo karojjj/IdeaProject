@@ -1,6 +1,6 @@
 package com.syntax.class04;
 
-import java.util.Scanner; //we need to import scanner into our class short cut:ctrl+shift+o
+import java.util.Scanner;
 
 
 //scanner is another class- class name can not be Scanner

@@ -14,8 +14,6 @@ public class PracticeVariables {
 		
 		byte store= 105;
 		
-		short store1=132;
-		
 		int store2=2472636;
 		
 		long store3= 26362711;
