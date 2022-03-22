@@ -12,8 +12,10 @@ public class Student {
 	int studentID;
 	String major;
 	boolean graduated;
-	
-		
-	}
+
+
+   {
+    }
+}
 	
 

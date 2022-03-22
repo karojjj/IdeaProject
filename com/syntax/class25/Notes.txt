@@ -84,6 +84,12 @@ class is inheriting from the abstract class it must either provide the implement
 == we can not  have abstract and static method together( abstract static void displayTime(); )==> it will give error.we can
 not override static method.
 ==we can not have abstract keyword with the fields name because fields do not have body{}
+==We can not create object of interface, they are just blueprint of class
+==Use "implements " keyword
+==they can only contain abstract methods
+for methods; they are abstract and public.they do not have method body .we can not write code with the method
+for variables; we should avoid using field variables. but when used they are constants, their values can not be changes
+once defined.they are public , final and static
  -----------------------------------------------------------------------------------------------------------------------
  Interview Question/?
  CAN WE HAVE STATIC AND NON-STATIC METHOD INSIDE THE ABSTRACT CLASS
