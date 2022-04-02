@@ -15,7 +15,7 @@ subclass (inherited from).
 ==Abstract class does not support multiple inheritance
 ==Abstract class contains Constructors
 ==An abstract class contains both incomplete (abstract) and complete member and Abstract class can have abstract and
-non-abstractmethods.
+non-abstract methods.
 ==An abstract class can contain access modifiers for the methods, properties(variables)
 == Abstract class can have final, static and non-static variables.
 ==Abstract class may contain either variable or constants.

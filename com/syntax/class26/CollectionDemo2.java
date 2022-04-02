@@ -11,8 +11,8 @@ public class CollectionDemo2 {
         countries.add("pakistan");
         countries.add("afganistan");
         countries.add("turkmenistan");
-        System.out.println(countries.get(3));
-        System.out.println(countries.get(0));
+        System.out.println(countries.get(3));//pakistan
+        System.out.println(countries.get(0)); //turkey
        // System.out.println(countries.get(-1)); INDEX START WITH ZERO SO IT WILL GIVE ERROR:ARRAYINDEXOUTOFBOUNDSEXCEPTION
        // System.out.println(countries.get(7)); //IndexOutOfBoundsException we have 5 index
         System.out.println(countries);

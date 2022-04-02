@@ -1,6 +1,7 @@
 package com.syntax.class26;
 
 public class ShoppingCart {
+    //encapsulation example so thats why fields are orivate and we used getter and setter method
     private double originalPrice=100;
     private double discount = .15;
 

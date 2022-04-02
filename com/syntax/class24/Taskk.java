@@ -35,5 +35,14 @@ public class Taskk {
      Edit and close are implemented method while open is an abstract. Create 3 subclasses: JavaFile, WordFile,
      PdfFile that will provide specific implementation of open behaviour: Example: to open
     .java file we need notepad++ or sublime text, to open .doc file we need Microsoft word to be installed etc
+
      */
+    public static void main(String[] args) {
+        File file= new PDFFile();
+        file.open();
+        file.open();
+        file.edit();
+
+
+        }
 }

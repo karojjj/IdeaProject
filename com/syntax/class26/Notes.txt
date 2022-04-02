@@ -1,8 +1,8 @@
 Abstraction in Java
 Hiding the implementation details and providing the functionality only.Two methods to achieve abstractions
-1.Abstract classess
+1.Abstract classes
 2.Interfaces
-Abstract classess:
+Abstract classes:
 Abstract classes are class with abstract keyword
 Interfaces: interfaces are the contracts that we create with the help of interface keyword
 to achieve multiple inheritance we need interface
@@ -16,5 +16,5 @@ are not related to each other for example an apple and a cloth class we should c
 
  Encapsulation: data hiding by making variables private and providing public getter and setter methods
  It is  the fourth pillar of OOPS it provides security and better control over the data of a class.we create classes
- and inside those classes we create private fields and methods. These methods are classes "getter setter methods:" and we
- set and get the values of the class field with the help of these methods instead of accessing
+ and inside those classes we create private fields and methods. These methods are classes "getter and setter methods:"
+  and we set and get the values of the class field with the help of these methods instead of accessing
